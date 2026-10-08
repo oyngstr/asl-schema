@@ -1,0 +1,60 @@
+{
+  "_note": "Source of truth for asl1.com structured data. The agent edits this file; build.py turns it into schema.json, which the site header script loads. Homepage is excluded on purpose: it already carries its own business schema and is off-limits to automatic changes.",
+  "services": [
+    {"path": "/services/landscape-design-and-installation", "name": "Landscape Design & Installation", "serviceType": "Landscape design and installation", "priority": true},
+    {"path": "/services/xeriscape-design", "name": "Xeriscaping & Water-Wise Landscaping", "serviceType": "Xeriscape landscaping", "priority": true},
+    {"path": "/services/retaining-walls", "name": "Retaining Walls", "serviceType": "Retaining wall construction", "priority": true},
+    {"path": "/services/custom-decks", "name": "Custom Decks", "serviceType": "Deck construction"},
+    {"path": "/services/patios", "name": "Patio Installation", "serviceType": "Patio installation"},
+    {"path": "/services/fire-features", "name": "Fire Features", "serviceType": "Fire pit and outdoor fireplace installation"},
+    {"path": "/services/water-features", "name": "Water Features", "serviceType": "Water feature installation"},
+    {"path": "/services/pools", "name": "Pools & Spas", "serviceType": "Pool and spa construction"},
+    {"path": "/services/flagstone-pavers-and-steps", "name": "Flagstone Installation", "serviceType": "Flagstone installation"},
+    {"path": "/services/pavers-and-decorative-rock", "name": "Pavers & Decorative Rock", "serviceType": "Paver and decorative rock installation"},
+    {"path": "/services/decorative-concrete", "name": "Decorative Concrete", "serviceType": "Decorative concrete"},
+    {"path": "/services/pergolas-shade-structures", "name": "Pergolas & Shade Structures", "serviceType": "Pergola and shade structure construction"},
+    {"path": "/services/outdoor-living-kitchens", "name": "Outdoor Living & Kitchens", "serviceType": "Outdoor kitchen construction"},
+    {"path": "/services/artificial-turf-putting-greens", "name": "Artificial Turf & Custom Putting Greens", "serviceType": "Artificial turf and putting green installation"},
+    {"path": "/services/play-structures-trampolines", "name": "Play Structures & Trampolines", "serviceType": "Play structure installation"},
+    {"path": "/services/sports-courts", "name": "Sports Courts", "serviceType": "Sports court construction"},
+    {"path": "/services/commercial-maintenance", "name": "Commercial Maintenance", "serviceType": "Commercial landscape maintenance"},
+    {"path": "/services/landscape-improvements", "name": "Landscape Improvements", "serviceType": "Commercial landscape improvements"},
+    {"path": "/services/snow-ice-management", "name": "Snow & Ice Management", "serviceType": "Commercial snow removal"}
+  ],
+  "blog_posts": [
+    {"path": "/blog/site-specific-landscape-design-utah", "headline": "What Makes a Landscape Feel Like It Belongs?", "datePublished": "2026-03-28"},
+    {"path": "/blog/retaining-walls-in-utah-what-you-need-to-know", "headline": "Retaining Walls in Utah: What You Need to Know", "datePublished": "2026-04-02"},
+    {"path": "/blog/lawn-fertilization-schedule-utah", "headline": "Your Utah Lawn Fertilization Schedule", "datePublished": "2026-04-08"}
+  ],
+  "projects": [
+    {"path": "/projects/draper-residence", "name": "Draper Residence", "city": "Draper"},
+    {"path": "/projects/highland-residence", "name": "Highland Residence", "city": "Highland"},
+    {"path": "/projects/riverton-residence", "name": "Riverton Residence", "city": "Riverton"},
+    {"path": "/projects/sandy-residence", "name": "Sandy Residence", "city": "Sandy"},
+    {"path": "/projects/talons-cove-golf-course", "name": "TalonsCove Golf Course", "city": null}
+  ],
+  "other_pages": [
+    {"path": "/about", "name": "About", "parent": null},
+    {"path": "/services", "name": "Services", "parent": null},
+    {"path": "/projects", "name": "Projects", "parent": null},
+    {"path": "/gallery", "name": "Gallery", "parent": null},
+    {"path": "/gallery/pergola-inspirations", "name": "Pergola Inspirations", "parent": "/gallery"},
+    {"path": "/gallery/play-inspirations", "name": "Play Inspirations", "parent": "/gallery"},
+    {"path": "/gallery/pool-inspirations", "name": "Pool Inspirations", "parent": "/gallery"},
+    {"path": "/gallery/stone-structure", "name": "Stone & Structure", "parent": "/gallery"},
+    {"path": "/gallery/tranquil-waters", "name": "Tranquil Waters", "parent": "/gallery"},
+    {"path": "/blog", "name": "Blog", "parent": null},
+    {"path": "/reviews", "name": "Reviews", "parent": null},
+    {"path": "/contact", "name": "Contact", "parent": null},
+    {"path": "/request-a-quote", "name": "Request a Quote", "parent": null},
+    {"path": "/privacy-policy", "name": "Privacy Policy", "parent": null},
+    {"path": "/terms", "name": "Terms", "parent": null}
+  ],
+  "faqs": {
+    "_note": "Path -> list of {q, a}. Add only when the same questions and answers are visible on that page; Google ignores FAQ markup for content not shown to visitors.",
+    "/services/retaining-walls": [],
+    "/services/xeriscape-design": [],
+    "/services/landscape-design-and-installation": []
+  },
+  "no_canonical": ["/404", "/thank-you"]
+}

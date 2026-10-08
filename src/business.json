@@ -1,0 +1,32 @@
+{
+  "@type": "HomeAndConstructionBusiness",
+  "@id": "https://asl1.com/#business",
+  "name": "All States Landscaping",
+  "url": "https://asl1.com/",
+  "telephone": "+1-801-571-7336",
+  "foundingDate": "1985",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "611 W 12300 S",
+    "addressLocality": "Draper",
+    "addressRegion": "UT",
+    "postalCode": "84020",
+    "addressCountry": "US"
+  },
+  "openingHoursSpecification": [{
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "opens": "08:00",
+    "closes": "17:00"
+  }],
+  "sameAs": [
+    "https://www.google.com/maps?cid=3121264320724741075",
+    "https://www.houzz.com/pro/allstateslandscaping",
+    "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+    "https://www.facebook.com/AllStatesLandscaping/",
+    "https://www.instagram.com/allstateslandscapingutah/",
+    "https://www.linkedin.com/company/all-states-landscaping",
+    "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+  ],
+  "priorityCities": ["Park City", "Alpine", "Sandy", "South Jordan", "Millcreek", "Draper", "Riverton", "Herriman", "Salt Lake City", "Highland", "Holladay", "Cottonwood Heights"]
+}

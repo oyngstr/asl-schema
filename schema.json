@@ -1,0 +1,3557 @@
+{
+ "site": "https://asl1.com",
+ "pages": {
+  "/services/landscape-design-and-installation": {
+   "canonical": "https://asl1.com/services/landscape-design-and-installation",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/landscape-design-and-installation#service",
+      "name": "Landscape Design & Installation",
+      "serviceType": "Landscape design and installation",
+      "url": "https://asl1.com/services/landscape-design-and-installation",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": [
+       {
+        "@type": "City",
+        "name": "Park City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Alpine",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Sandy",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "South Jordan",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Millcreek",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Draper",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Riverton",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Herriman",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Salt Lake City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Highland",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Holladay",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cottonwood Heights",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Landscape Design & Installation",
+        "item": "https://asl1.com/services/landscape-design-and-installation"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/xeriscape-design": {
+   "canonical": "https://asl1.com/services/xeriscape-design",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/xeriscape-design#service",
+      "name": "Xeriscaping & Water-Wise Landscaping",
+      "serviceType": "Xeriscape landscaping",
+      "url": "https://asl1.com/services/xeriscape-design",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": [
+       {
+        "@type": "City",
+        "name": "Park City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Alpine",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Sandy",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "South Jordan",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Millcreek",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Draper",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Riverton",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Herriman",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Salt Lake City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Highland",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Holladay",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cottonwood Heights",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Xeriscaping & Water-Wise Landscaping",
+        "item": "https://asl1.com/services/xeriscape-design"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/retaining-walls": {
+   "canonical": "https://asl1.com/services/retaining-walls",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/retaining-walls#service",
+      "name": "Retaining Walls",
+      "serviceType": "Retaining wall construction",
+      "url": "https://asl1.com/services/retaining-walls",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": [
+       {
+        "@type": "City",
+        "name": "Park City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Alpine",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Sandy",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "South Jordan",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Millcreek",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Draper",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Riverton",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Herriman",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Salt Lake City",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Highland",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Holladay",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       },
+       {
+        "@type": "City",
+        "name": "Cottonwood Heights",
+        "containedInPlace": {
+         "@type": "State",
+         "name": "Utah"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Retaining Walls",
+        "item": "https://asl1.com/services/retaining-walls"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/custom-decks": {
+   "canonical": "https://asl1.com/services/custom-decks",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/custom-decks#service",
+      "name": "Custom Decks",
+      "serviceType": "Deck construction",
+      "url": "https://asl1.com/services/custom-decks",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Custom Decks",
+        "item": "https://asl1.com/services/custom-decks"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/patios": {
+   "canonical": "https://asl1.com/services/patios",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/patios#service",
+      "name": "Patio Installation",
+      "serviceType": "Patio installation",
+      "url": "https://asl1.com/services/patios",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Patio Installation",
+        "item": "https://asl1.com/services/patios"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/fire-features": {
+   "canonical": "https://asl1.com/services/fire-features",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/fire-features#service",
+      "name": "Fire Features",
+      "serviceType": "Fire pit and outdoor fireplace installation",
+      "url": "https://asl1.com/services/fire-features",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Fire Features",
+        "item": "https://asl1.com/services/fire-features"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/water-features": {
+   "canonical": "https://asl1.com/services/water-features",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/water-features#service",
+      "name": "Water Features",
+      "serviceType": "Water feature installation",
+      "url": "https://asl1.com/services/water-features",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Water Features",
+        "item": "https://asl1.com/services/water-features"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/pools": {
+   "canonical": "https://asl1.com/services/pools",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/pools#service",
+      "name": "Pools & Spas",
+      "serviceType": "Pool and spa construction",
+      "url": "https://asl1.com/services/pools",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pools & Spas",
+        "item": "https://asl1.com/services/pools"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/flagstone-pavers-and-steps": {
+   "canonical": "https://asl1.com/services/flagstone-pavers-and-steps",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/flagstone-pavers-and-steps#service",
+      "name": "Flagstone Installation",
+      "serviceType": "Flagstone installation",
+      "url": "https://asl1.com/services/flagstone-pavers-and-steps",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Flagstone Installation",
+        "item": "https://asl1.com/services/flagstone-pavers-and-steps"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/pavers-and-decorative-rock": {
+   "canonical": "https://asl1.com/services/pavers-and-decorative-rock",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/pavers-and-decorative-rock#service",
+      "name": "Pavers & Decorative Rock",
+      "serviceType": "Paver and decorative rock installation",
+      "url": "https://asl1.com/services/pavers-and-decorative-rock",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pavers & Decorative Rock",
+        "item": "https://asl1.com/services/pavers-and-decorative-rock"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/decorative-concrete": {
+   "canonical": "https://asl1.com/services/decorative-concrete",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/decorative-concrete#service",
+      "name": "Decorative Concrete",
+      "serviceType": "Decorative concrete",
+      "url": "https://asl1.com/services/decorative-concrete",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Decorative Concrete",
+        "item": "https://asl1.com/services/decorative-concrete"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/pergolas-shade-structures": {
+   "canonical": "https://asl1.com/services/pergolas-shade-structures",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/pergolas-shade-structures#service",
+      "name": "Pergolas & Shade Structures",
+      "serviceType": "Pergola and shade structure construction",
+      "url": "https://asl1.com/services/pergolas-shade-structures",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pergolas & Shade Structures",
+        "item": "https://asl1.com/services/pergolas-shade-structures"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/outdoor-living-kitchens": {
+   "canonical": "https://asl1.com/services/outdoor-living-kitchens",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/outdoor-living-kitchens#service",
+      "name": "Outdoor Living & Kitchens",
+      "serviceType": "Outdoor kitchen construction",
+      "url": "https://asl1.com/services/outdoor-living-kitchens",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Outdoor Living & Kitchens",
+        "item": "https://asl1.com/services/outdoor-living-kitchens"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/artificial-turf-putting-greens": {
+   "canonical": "https://asl1.com/services/artificial-turf-putting-greens",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/artificial-turf-putting-greens#service",
+      "name": "Artificial Turf & Custom Putting Greens",
+      "serviceType": "Artificial turf and putting green installation",
+      "url": "https://asl1.com/services/artificial-turf-putting-greens",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Artificial Turf & Custom Putting Greens",
+        "item": "https://asl1.com/services/artificial-turf-putting-greens"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/play-structures-trampolines": {
+   "canonical": "https://asl1.com/services/play-structures-trampolines",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/play-structures-trampolines#service",
+      "name": "Play Structures & Trampolines",
+      "serviceType": "Play structure installation",
+      "url": "https://asl1.com/services/play-structures-trampolines",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Play Structures & Trampolines",
+        "item": "https://asl1.com/services/play-structures-trampolines"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/sports-courts": {
+   "canonical": "https://asl1.com/services/sports-courts",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/sports-courts#service",
+      "name": "Sports Courts",
+      "serviceType": "Sports court construction",
+      "url": "https://asl1.com/services/sports-courts",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Sports Courts",
+        "item": "https://asl1.com/services/sports-courts"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/commercial-maintenance": {
+   "canonical": "https://asl1.com/services/commercial-maintenance",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/commercial-maintenance#service",
+      "name": "Commercial Maintenance",
+      "serviceType": "Commercial landscape maintenance",
+      "url": "https://asl1.com/services/commercial-maintenance",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Commercial Maintenance",
+        "item": "https://asl1.com/services/commercial-maintenance"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/landscape-improvements": {
+   "canonical": "https://asl1.com/services/landscape-improvements",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/landscape-improvements#service",
+      "name": "Landscape Improvements",
+      "serviceType": "Commercial landscape improvements",
+      "url": "https://asl1.com/services/landscape-improvements",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Landscape Improvements",
+        "item": "https://asl1.com/services/landscape-improvements"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services/snow-ice-management": {
+   "canonical": "https://asl1.com/services/snow-ice-management",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "Service",
+      "@id": "https://asl1.com/services/snow-ice-management#service",
+      "name": "Snow & Ice Management",
+      "serviceType": "Commercial snow removal",
+      "url": "https://asl1.com/services/snow-ice-management",
+      "provider": {
+       "@id": "https://asl1.com/#business"
+      },
+      "areaServed": {
+       "@type": "State",
+       "name": "Utah"
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Snow & Ice Management",
+        "item": "https://asl1.com/services/snow-ice-management"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/blog/site-specific-landscape-design-utah": {
+   "canonical": "https://asl1.com/blog/site-specific-landscape-design-utah",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BlogPosting",
+      "headline": "What Makes a Landscape Feel Like It Belongs?",
+      "url": "https://asl1.com/blog/site-specific-landscape-design-utah",
+      "datePublished": "2026-03-28",
+      "author": {
+       "@id": "https://asl1.com/#business"
+      },
+      "publisher": {
+       "@id": "https://asl1.com/#business"
+      },
+      "mainEntityOfPage": "https://asl1.com/blog/site-specific-landscape-design-utah"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://asl1.com/blog"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "What Makes a Landscape Feel Like It Belongs?",
+        "item": "https://asl1.com/blog/site-specific-landscape-design-utah"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/blog/retaining-walls-in-utah-what-you-need-to-know": {
+   "canonical": "https://asl1.com/blog/retaining-walls-in-utah-what-you-need-to-know",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BlogPosting",
+      "headline": "Retaining Walls in Utah: What You Need to Know",
+      "url": "https://asl1.com/blog/retaining-walls-in-utah-what-you-need-to-know",
+      "datePublished": "2026-04-02",
+      "author": {
+       "@id": "https://asl1.com/#business"
+      },
+      "publisher": {
+       "@id": "https://asl1.com/#business"
+      },
+      "mainEntityOfPage": "https://asl1.com/blog/retaining-walls-in-utah-what-you-need-to-know"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://asl1.com/blog"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Retaining Walls in Utah: What You Need to Know",
+        "item": "https://asl1.com/blog/retaining-walls-in-utah-what-you-need-to-know"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/blog/lawn-fertilization-schedule-utah": {
+   "canonical": "https://asl1.com/blog/lawn-fertilization-schedule-utah",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BlogPosting",
+      "headline": "Your Utah Lawn Fertilization Schedule",
+      "url": "https://asl1.com/blog/lawn-fertilization-schedule-utah",
+      "datePublished": "2026-04-08",
+      "author": {
+       "@id": "https://asl1.com/#business"
+      },
+      "publisher": {
+       "@id": "https://asl1.com/#business"
+      },
+      "mainEntityOfPage": "https://asl1.com/blog/lawn-fertilization-schedule-utah"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://asl1.com/blog"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Your Utah Lawn Fertilization Schedule",
+        "item": "https://asl1.com/blog/lawn-fertilization-schedule-utah"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects/draper-residence": {
+   "canonical": "https://asl1.com/projects/draper-residence",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Draper Residence",
+      "url": "https://asl1.com/projects/draper-residence",
+      "creator": {
+       "@id": "https://asl1.com/#business"
+      },
+      "about": "Landscape design and build project",
+      "locationCreated": {
+       "@type": "City",
+       "name": "Draper",
+       "containedInPlace": {
+        "@type": "State",
+        "name": "Utah"
+       }
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Draper Residence",
+        "item": "https://asl1.com/projects/draper-residence"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects/highland-residence": {
+   "canonical": "https://asl1.com/projects/highland-residence",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Highland Residence",
+      "url": "https://asl1.com/projects/highland-residence",
+      "creator": {
+       "@id": "https://asl1.com/#business"
+      },
+      "about": "Landscape design and build project",
+      "locationCreated": {
+       "@type": "City",
+       "name": "Highland",
+       "containedInPlace": {
+        "@type": "State",
+        "name": "Utah"
+       }
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Highland Residence",
+        "item": "https://asl1.com/projects/highland-residence"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects/riverton-residence": {
+   "canonical": "https://asl1.com/projects/riverton-residence",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Riverton Residence",
+      "url": "https://asl1.com/projects/riverton-residence",
+      "creator": {
+       "@id": "https://asl1.com/#business"
+      },
+      "about": "Landscape design and build project",
+      "locationCreated": {
+       "@type": "City",
+       "name": "Riverton",
+       "containedInPlace": {
+        "@type": "State",
+        "name": "Utah"
+       }
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Riverton Residence",
+        "item": "https://asl1.com/projects/riverton-residence"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects/sandy-residence": {
+   "canonical": "https://asl1.com/projects/sandy-residence",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "Sandy Residence",
+      "url": "https://asl1.com/projects/sandy-residence",
+      "creator": {
+       "@id": "https://asl1.com/#business"
+      },
+      "about": "Landscape design and build project",
+      "locationCreated": {
+       "@type": "City",
+       "name": "Sandy",
+       "containedInPlace": {
+        "@type": "State",
+        "name": "Utah"
+       }
+      }
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Sandy Residence",
+        "item": "https://asl1.com/projects/sandy-residence"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects/talons-cove-golf-course": {
+   "canonical": "https://asl1.com/projects/talons-cove-golf-course",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "CreativeWork",
+      "name": "TalonsCove Golf Course",
+      "url": "https://asl1.com/projects/talons-cove-golf-course",
+      "creator": {
+       "@id": "https://asl1.com/#business"
+      },
+      "about": "Landscape design and build project"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "TalonsCove Golf Course",
+        "item": "https://asl1.com/projects/talons-cove-golf-course"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/about": {
+   "canonical": "https://asl1.com/about",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "About",
+        "item": "https://asl1.com/about"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/services": {
+   "canonical": "https://asl1.com/services",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://asl1.com/services"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/projects": {
+   "canonical": "https://asl1.com/projects",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Projects",
+        "item": "https://asl1.com/projects"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery": {
+   "canonical": "https://asl1.com/gallery",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery/pergola-inspirations": {
+   "canonical": "https://asl1.com/gallery/pergola-inspirations",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pergola Inspirations",
+        "item": "https://asl1.com/gallery/pergola-inspirations"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery/play-inspirations": {
+   "canonical": "https://asl1.com/gallery/play-inspirations",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Play Inspirations",
+        "item": "https://asl1.com/gallery/play-inspirations"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery/pool-inspirations": {
+   "canonical": "https://asl1.com/gallery/pool-inspirations",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Pool Inspirations",
+        "item": "https://asl1.com/gallery/pool-inspirations"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery/stone-structure": {
+   "canonical": "https://asl1.com/gallery/stone-structure",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Stone & Structure",
+        "item": "https://asl1.com/gallery/stone-structure"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/gallery/tranquil-waters": {
+   "canonical": "https://asl1.com/gallery/tranquil-waters",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gallery",
+        "item": "https://asl1.com/gallery"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Tranquil Waters",
+        "item": "https://asl1.com/gallery/tranquil-waters"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/blog": {
+   "canonical": "https://asl1.com/blog",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://asl1.com/blog"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/reviews": {
+   "canonical": "https://asl1.com/reviews",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Reviews",
+        "item": "https://asl1.com/reviews"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/contact": {
+   "canonical": "https://asl1.com/contact",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Contact",
+        "item": "https://asl1.com/contact"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/request-a-quote": {
+   "canonical": "https://asl1.com/request-a-quote",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Request a Quote",
+        "item": "https://asl1.com/request-a-quote"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/privacy-policy": {
+   "canonical": "https://asl1.com/privacy-policy",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Privacy Policy",
+        "item": "https://asl1.com/privacy-policy"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/terms": {
+   "canonical": "https://asl1.com/terms",
+   "jsonld": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "HomeAndConstructionBusiness",
+      "@id": "https://asl1.com/#business",
+      "name": "All States Landscaping",
+      "url": "https://asl1.com/",
+      "telephone": "+1-801-571-7336",
+      "foundingDate": "1985",
+      "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "611 W 12300 S",
+       "addressLocality": "Draper",
+       "addressRegion": "UT",
+       "postalCode": "84020",
+       "addressCountry": "US"
+      },
+      "openingHoursSpecification": [
+       {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+         "Monday",
+         "Tuesday",
+         "Wednesday",
+         "Thursday",
+         "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+       }
+      ],
+      "sameAs": [
+       "https://www.google.com/maps?cid=3121264320724741075",
+       "https://www.houzz.com/pro/allstateslandscaping",
+       "https://www.yelp.com/biz/Sv03c164ubtHIM40avlbAA",
+       "https://www.facebook.com/AllStatesLandscaping/",
+       "https://www.instagram.com/allstateslandscapingutah/",
+       "https://www.linkedin.com/company/all-states-landscaping",
+       "https://www.bbb.org/us/ut/draper/profile/landscape-maintenance/all-states-landscaping-inc-1126-2001851"
+      ]
+     },
+     {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asl1.com/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Terms",
+        "item": "https://asl1.com/terms"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "/404": {
+   "canonical": null,
+   "jsonld": null
+  },
+  "/thank-you": {
+   "canonical": null,
+   "jsonld": null
+  }
+ }
+}
