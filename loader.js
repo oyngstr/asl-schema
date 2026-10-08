@@ -1,6 +1,6 @@
 /* asl1.com structured data + canonical loader.
    Goes in GHL → Site settings → Tracking code / header, once:
-     <script src="https://REPLACE_WITH_GITHUB_USER.github.io/asl-schema/loader.js" defer></script>
+     <script src="https://oyngstr.github.io/asl-schema/loader.js" defer></script>
    It fetches schema.json from the same place and, for the current page:
      - adds a <link rel="canonical"> if the page has none
      - adds one JSON-LD block, unless the page already carries one from this loader
@@ -8,7 +8,7 @@
 (function () {
   try {
     var me = document.currentScript && document.currentScript.src;
-    var base = me ? me.replace(/loader\.js.*$/, '') : 'https://REPLACE_WITH_GITHUB_USER.github.io/asl-schema/';
+    var base = me ? me.replace(/loader\.js.*$/, '') : 'https://oyngstr.github.io/asl-schema/';
     var path = location.pathname.replace(/\/+$/, '') || '/';
 
     fetch(base + 'schema.json', { cache: 'no-cache' })
